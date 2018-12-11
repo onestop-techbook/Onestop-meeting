@@ -1,0 +1,12 @@
+node_modules
+Gemfile.lock
+*.pdf
+
+articles/*.html
+
+#ignore custom config file used on a Re:View environment including W32TeX and Ruby running on Windows 7
+articles/config_W32TeX.yml
+
+#ignore Visual Studio Code Workspace
+*.code-workspace
+articles/layouts/layout.tex - コピー.erb
