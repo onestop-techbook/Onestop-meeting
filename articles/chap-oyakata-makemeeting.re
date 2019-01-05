@@ -12,7 +12,7 @@
 
 私の場合は、技術同人誌関係のコミュニティ活動を始めたばかりだったので、それをネタにすることにしました。
 
-技術系同人誌　執筆テク自慢のLT会-となりの人はどうやってるんだろう-@<fn>{1stevent]
+技術系同人誌　執筆テク自慢のLT会-となりの人はどうやってるんだろう-@<fn>{1stevent}
 
 //footnote[1stevent][2017年9月開催。 https://techbook-and-ethanol.connpass.com/event/62548/]
 
