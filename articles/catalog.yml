@@ -29,14 +29,15 @@ CHAPS:
 
   # 社内勉強会を開催しよう
   - chap-killinsun-inhouse-workshop.re
-  
+
   # 懇親会費用見積もりにおける「安全マージン」
   - chap-ariaki-safe-margin.re
 
+  # 勉強会に参加して何をするのか・勉強会の心得
+  - chap-erukiti-what.re
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
-
   # こんな勉強会があるよ！
   # ノンジャンル勉強会、LT会の紹介、その他。
 
