@@ -12,6 +12,9 @@ CHAPS:
   # 勉強会を有効活用しよう(仮)
   - chap-konosumi-join-event-strategy.re
 
+  # カジュアルに名刺を作ろう
+  - chap-oyakata-meishi.re
+
   # 登壇しよう。
   # 登壇してみよう！　LTとは？　LTのスライドの基本　懇親会会話術(登壇者)
 
@@ -21,9 +24,15 @@ CHAPS:
   # 自分でも勉強会を主催してみたい！
   # 会場の予約、準備、飲食について
 
+  # はじめての小規模勉強会@おやかた
+  - chap-oyakata-makemeeting.re
+
   # 社内勉強会を開催しよう
   - chap-killinsun-inhouse-workshop.re
-  
+
+  # 中小SIerで社内勉強会を一年を続けられた勘所（仮）
+  - chap-mzryuka-internal-study-group.re
+
   # 懇親会費用見積もりにおける「安全マージン」
   - chap-ariaki-safe-margin.re
 
