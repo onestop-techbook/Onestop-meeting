@@ -4,7 +4,6 @@ PREDEF:
 
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
-  - chap-sample.re
 
   # 一般参加編：でも、初めて参加するのはちょっと怖い？
   # 参加する方法、参加するときのちょっとしたコツ、懇親会会話術(一般参加)
@@ -20,6 +19,9 @@ CHAPS:
 
   # 登壇内容の生やし方
   - chap-ariaki-content-selection.re
+
+  # 雑にスライドを作る方法
+  - chap-oyakata-LTslides.re
 
   # 自分でも勉強会を主催してみたい！
   # 会場の予約、準備、飲食について
@@ -38,11 +40,19 @@ CHAPS:
 
   # 学生でもオープンな勉強会に行こう
   - chap-ryoto-student.re
+  # 勉強会に参加して何をするのか・勉強会の心得
+  - chap-erukiti-what.re
+
+  # 勉強会アンチパターン；ポシャる会
+  - chap-oyakata-MeetingAntipattern.re
+
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
-
+  
   # こんな勉強会があるよ！
+  - chap-llminatoll-various.re
+
   # ノンジャンル勉強会、LT会の紹介、その他。
 
 APPENDIX:
