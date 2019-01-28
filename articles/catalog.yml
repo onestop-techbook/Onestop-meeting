@@ -38,11 +38,14 @@ CHAPS:
   # 懇親会費用見積もりにおける「安全マージン」
   - chap-ariaki-safe-margin.re
 
+  # 学生でもオープンな勉強会に行こう
+  - chap-ryoto-student.re
   # 勉強会に参加して何をするのか・勉強会の心得
   - chap-erukiti-what.re
 
   # 勉強会アンチパターン；ポシャる会
   - chap-oyakata-MeetingAntipattern.re
+
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
