@@ -10,7 +10,7 @@ CHAPS:
 
   # 勉強会を有効活用しよう(仮)
   - chap-konosumi-join-event-strategy.re
-  
+
   # 勉強会って何？ 初めての勉強会に行ってみよう！
   - chap-hekitter-first-meeting.re
 
@@ -28,7 +28,7 @@ CHAPS:
 
   # 雑にスライドを作る方法
   - chap-oyakata-LTslides.re
-  
+
   # それっぽいスライドを作るテクニック
   - chap-mottox2-slide-technique.re
 
@@ -55,6 +55,8 @@ CHAPS:
   # 勉強会アンチパターン；ポシャる会
   - chap-oyakata-MeetingAntipattern.re
 
+  # 行動規範
+  - chap-standard-of-conduct.re
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
