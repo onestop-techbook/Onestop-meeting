@@ -71,7 +71,9 @@
 ローカルに根ざしたコミュニティから言語別のユーザー会まで、コミュニティはさまざまです。コミュニティが主催するカンファレンスは、参加者のつながりが強い特徴があります。
 
  * 富山合同勉強会(BuriKaigi): @<href>{https://toyama-eng.connpass.com/}
+ * Niigata Engineers Meeting: @<href>{https://nem.connpass.com/}
  * 吉祥寺.pm: @<href>{https://kichijojipm.connpass.com/}
+ * ...etc
 
 継続的に参加することを考えると、自宅や会社から近い場所で開催されていることを条件に探してみるのがオススメです。
 
