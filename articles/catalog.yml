@@ -38,6 +38,9 @@ CHAPS:
   # はじめての小規模勉強会@おやかた
   - chap-oyakata-makemeeting.re
 
+  # スポンサーをつけた中規模勉強会をはじめよう@VTRyo,@はっせー
+  - chap-vtryo-startmeeting-with-sponsor.re
+
   # 社内勉強会を開催しよう
   - chap-killinsun-inhouse-workshop.re
 
