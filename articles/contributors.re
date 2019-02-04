@@ -269,6 +269,21 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 \clearpage
 //}
 
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/アイコン画像ファイル}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       VTRyo      https://twitter.com/3s\_hv/\\
+       サークル名： Growthfaction, jobchanger https://ex-sier.connpass.com/event/
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+五反田のスタートアップでSREチームに所属しています。本業より個別活動の方が露出が多いです。
+ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援が趣味です。
+今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』もよろしくお願いします。
+
 == 表紙イラスト担当
 
 //embed{
