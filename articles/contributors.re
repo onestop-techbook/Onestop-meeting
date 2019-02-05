@@ -16,6 +16,8 @@
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
+#@# VTRyo_400x400.jpg       VTRyo
+
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -272,7 +274,7 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 //embed{
    \begin{minipage}{.1\linewidth}
        \centering
-       \includegraphics[width=.75\linewidth]{images/contributors/アイコン画像ファイル}
+       \includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
        VTRyo      https://twitter.com/3s\_hv/\\
