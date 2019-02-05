@@ -4,7 +4,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Build PDF with Re:View",
+            "label": "Build PDF with Re:VIEW",
             "type": "shell",
             "command": "review",
             "args": [
