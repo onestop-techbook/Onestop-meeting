@@ -16,6 +16,8 @@
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
+#@# VTRyo_400x400.jpg       VTRyo
+
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -268,6 +270,21 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 //embed[latex]{
 \clearpage
 //}
+
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       VTRyo      https://twitter.com/3s\_hv/\\
+       サークル名： Growthfaction, jobchanger https://ex-sier.connpass.com/event/
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+五反田のスタートアップでSREチームに所属しています。本業より個別活動の方が露出が多いです。
+ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援が趣味です。
+今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』もよろしくお願いします。
 
 == 表紙イラスト担当
 

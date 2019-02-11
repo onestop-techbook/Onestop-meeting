@@ -8,8 +8,11 @@ CHAPS:
   # 一般参加編：でも、初めて参加するのはちょっと怖い？
   # 参加する方法、参加するときのちょっとしたコツ、懇親会会話術(一般参加)
 
-  # 勉強会を有効活用しよう(仮)
-  - chap-konosumi-join-event-strategy.re
+  # 勉強会を有効活用しよう
+  - chap-event-attend-effective.re
+
+  # 勉強会って何？ 初めての勉強会に行ってみよう！
+  - chap-hekitter-first-meeting.re
 
   # カジュアルに名刺を作ろう
   - chap-oyakata-meishi.re
@@ -25,7 +28,7 @@ CHAPS:
 
   # 雑にスライドを作る方法
   - chap-oyakata-LTslides.re
-  
+
   # それっぽいスライドを作るテクニック
   - chap-mottox2-slide-technique.re
 
@@ -35,11 +38,17 @@ CHAPS:
   # はじめての小規模勉強会@おやかた
   - chap-oyakata-makemeeting.re
 
+  # スポンサーをつけた中規模勉強会をはじめよう@VTRyo,@はっせー
+  - chap-vtryo-startmeeting-with-sponsor.re
+
   # 社内勉強会を開催しよう
-  - chap-killinsun-inhouse-workshop.re
+  - chap-killinsun-internal-meeting.re
 
   # 中小SIer企業でも社内勉強会を一年間続けられたよ
   - chap-mzryuka-internal-study-group.re
+
+  # LT会のタイムテーブルと質問について
+  - chap-oyakata-timetableofLT.re
 
   # 懇親会費用見積もりにおける「安全マージン」
   - chap-ariaki-safe-margin.re
@@ -52,9 +61,13 @@ CHAPS:
   # 勉強会アンチパターン；ポシャる会
   - chap-oyakata-MeetingAntipattern.re
 
+  # 行動規範
+  - chap-standard-of-conduct.re
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
+
+  - chap-oyakata-community.re
 
   # こんな勉強会があるよ！
   - chap-llminatoll-various.re
