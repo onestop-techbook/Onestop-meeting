@@ -53,6 +53,9 @@ CHAPS:
   # 懇親会費用見積もりにおける「安全マージン」
   - chap-ariaki-safe-margin.re
 
+  # 読書会のススメ
+  - chap-reading-book.re
+
   # 学生でもオープンな勉強会に行こう
   - chap-ryoto-student.re
   # 勉強会に参加して何をするのか・勉強会の心得
