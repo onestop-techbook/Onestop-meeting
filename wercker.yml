@@ -12,3 +12,9 @@ build:
     - script:
       name: output artifacts
       code: cp articles/*.pdf $WERCKER_REPORT_ARTIFACTS_DIR/
+after-steps:
+        - slack-notifier:
+            url: $SLACK_URL
+            channel: notify
+            username: werckerbot
+            notify_on: "failed"
