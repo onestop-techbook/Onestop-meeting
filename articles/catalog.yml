@@ -14,6 +14,9 @@ CHAPS:
   # 勉強会って何？ 初めての勉強会に行ってみよう！
   - chap-hekitter-first-meeting.re
 
+  # どの勉強会に行くべきかわからない？そんなときは
+  - chap-ichi_taro3-how-to-find.re
+
   # カジュアルに名刺を作ろう
   - chap-oyakata-meishi.re
 
