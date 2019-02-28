@@ -71,8 +71,11 @@ CHAPS:
 
   - chap-oyakata-community.re
 
-  # こんな勉強会があるよ！
+  # こんな勉強会があるよ！（主催者編）
   - chap-llminatoll-various.re
+
+  # こんな勉強会があるよ！（参加者編）
+  - chap-varmeetup-attend.re
 
   # ノンジャンル勉強会、LT会の紹介、その他。
 
