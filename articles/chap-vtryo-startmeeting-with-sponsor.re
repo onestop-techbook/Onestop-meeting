@@ -1,11 +1,11 @@
 = スポンサーをつけた中規模勉強会をはじめよう
 
-#@# //flushright{
-#@# @VTRyo
-#@# //}
-#@# //flushright{
-#@# @はっせー
-#@# //}
+//flushright{
+@VTRyo
+//}
+//flushright{
+@はっせー
+//}
 
 == はじめに
 
