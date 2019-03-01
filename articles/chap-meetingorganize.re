@@ -13,7 +13,7 @@
 とあるweb企業でインフラエンジニアをしております。
 
 コミュニティ「Everyone Outputer」の主催です。
-
+https://everyone-outputer.connpass.com/
 
 
 ==== 開催概要・内容
@@ -21,6 +21,8 @@
 Everyone Outputer # 1
 
 ｢ぼくのわたしのセイチョウ・ジャーニー｣
+
+https://everyone-outputer.connpass.com/event/104902/
 
 内容：セイチョウ・ジャーニーに関するLT大会。初心者歓迎。
 
