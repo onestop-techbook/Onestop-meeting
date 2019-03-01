@@ -56,21 +56,6 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        見積もりやっていきおじさん\\
-        サークル名：みつもりやっていき
-        \end{minipage}
-    \hspace{1ex}
-//}
-見積もり大好きだけど、見積もり大嫌い。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/47l90qIj_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -297,7 +282,7 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
        \includegraphics[width=.75\linewidth]{images/contributors/hassee_400x400.jpg}
    \end{minipage}
    \begin{minipage}{.89\linewidth}
-       はっせー @Dear_you_cry      https://twitter.com/Dear\_you\_cry/\\
+       はっせー @Dear\_you\_cry      https://twitter.com/Dear\_you\_cry/\\
        サークル名： jobchanger https://ex-sier.connpass.com/event/
        \end{minipage}
    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
