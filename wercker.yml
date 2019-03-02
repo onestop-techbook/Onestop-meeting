@@ -17,4 +17,3 @@ after-steps:
             url: $SLACK_URL
             channel: notify
             username: werckerbot
-            notify_on: "failed"
