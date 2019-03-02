@@ -14,6 +14,9 @@ CHAPS:
   # 勉強会って何？ 初めての勉強会に行ってみよう！
   - chap-hekitter-first-meeting.re
 
+  # どの勉強会に行くべきかわからない？そんなときは
+  - chap-ichi_taro3-how-to-find.re
+
   # カジュアルに名刺を作ろう
   - chap-oyakata-meishi.re
 
@@ -52,9 +55,6 @@ CHAPS:
   # LT会のタイムテーブルと質問について
   - chap-oyakata-timetableofLT.re
 
-  # 懇親会費用見積もりにおける「安全マージン」
-  - chap-ariaki-safe-margin.re
-
   # 読書会のススメ
   - chap-reading-book.re
 
@@ -74,8 +74,16 @@ CHAPS:
 
   - chap-oyakata-community.re
 
-  # こんな勉強会があるよ！
+  # こんな勉強会があるよ！（主催者編）
   - chap-llminatoll-various.re
+
+  # こんな勉強会があるよ！（参加者編）
+  - chap-varmeetup-attend.re
+  - chap-nobu23_output.re
+
+
+  # 主催して広がった世界
+  - chap-meetingorganize.re
 
   # ノンジャンル勉強会、LT会の紹介、その他。
 
