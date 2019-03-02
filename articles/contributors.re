@@ -17,6 +17,8 @@
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
 #@# VTRyo_400x400.jpg       VTRyo
+#@# hassee_400x400.jpg       はっせー
+
 
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
@@ -50,21 +52,6 @@
 普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。
 
 == 執筆者
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        見積もりやっていきおじさん\\
-        サークル名：みつもりやっていき
-        \end{minipage}
-    \hspace{1ex}
-//}
-見積もり大好きだけど、見積もり大嫌い。
-
-　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -267,9 +254,7 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 自他共に認める振り回され系ITエンジニア。最近オンライン上で荒れている姿がみかけられるが、
 「せとさんにしか頼めないんです」と言われればやってしまうのである。
 
-//embed[latex]{
-\clearpage
-//}
+　
 
 //embed{
    \begin{minipage}{.1\linewidth}
@@ -283,8 +268,34 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
 //}
 五反田のスタートアップでSREチームに所属しています。本業より個別活動の方が露出が多いです。
+
 ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援が趣味です。
+
+最近は『副業：小説家』とか言いだしてます。
+
 今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』もよろしくお願いします。
+
+　
+
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/hassee_400x400.jpg}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       はっせー @Dear\_you\_cry      https://twitter.com/Dear\_you\_cry/\\
+       サークル名： jobchanger https://ex-sier.connpass.com/event/
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+文系学部卒業後、大手SIerに入社する。
+ソースコードを紙に印刷してレビューするような開発環境で某銀行のシステム開発に従事するが、身に付けられるスキルに不安を感じ転職を決意する。
+
+プログラミングスクール等でWeb系技術を学び、Web業界への転職を果たす。
+
+現在は、Railsを使ってSaaSの開発をしています。
+
+好きなものは、漫画と日本酒です。
 
 == 表紙イラスト担当
 
