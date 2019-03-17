@@ -18,6 +18,7 @@
 #@# youchan_400x400.jpg     youchan
 #@# VTRyo_400x400.jpg       VTRyo
 #@# hassee_400x400.jpg       はっせー
+#@# killinsun_400x400.jpg   首無しキリン
 
 
 #@#自己紹介ひな形↓
@@ -314,6 +315,25 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。月一ぐらいのペースでLTや登壇をしています。
 
 自分のサークルではNetlifyという開発プラットフォームの逆引き本を書いています。口笛とホルンを吹きます。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/killinsun_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        首無しキリン@Kill\_In\_Sun https://twitter.com/Kill\_In\_Sun\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+キリンをこなよく愛すデスメタル&メタルコアベーシスト。
+
+大手運用SIerにてインフラインフラエンジニアを5年経験後、SaaSを提供する多国籍企業でカスタマーサクセスとプロジェクト推進を担当しています。
+
+仕事はエンジニアではなくなりましたが、趣味でコードを書いています。
 
 == 表紙イラスト担当
 
