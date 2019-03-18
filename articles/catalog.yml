@@ -52,6 +52,8 @@ CHAPS:
   # 中小SIer企業でも社内勉強会を一年間続けられたよ
   - chap-mzryuka-internal-study-group.re
 
+  - chap-himarin269-internal.re
+
   # LT会のタイムテーブルと質問について
   - chap-oyakata-timetableofLT.re
 
@@ -76,12 +78,11 @@ CHAPS:
 
   # こんな勉強会があるよ！（主催者編）
   - chap-llminatoll-various.re
-  - chap-techpub.re
+  # - chap-techpub.re
 
   # こんな勉強会があるよ！（参加者編）
   - chap-varmeetup-attend.re
-  - chap-nobu23_output.re
-  - chap-himarin269-internal.re
+  
 
 
   # 主催して広がった世界
