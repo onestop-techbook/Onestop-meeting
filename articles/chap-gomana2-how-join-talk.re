@@ -6,7 +6,7 @@
 
 　勉強会に参加するには、予約する必要があります。運営される方の準備があるためです。予約して参加する際に、勉強会を開催する方々への感謝の気持ちを忘れないようにしましょう。よく使われるエンジニア向け勉強会予約サービスは以下があります。
 
- * conpass(https://connpass.com)
+ * connpass(https://connpass.com)
  * Doorkeeper(https://doorkeeper.jp)
  * TECH PLAY(https://techplay.jp)
  * サポーターズColab(https://supporterzcolab.com)
