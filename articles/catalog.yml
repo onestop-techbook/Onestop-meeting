@@ -4,26 +4,19 @@ PREDEF:
 
 CHAPS:
   # 各自書きたい内容とファイル名を追加していく
+  - chap-sample.re
 
   # 一般参加編：でも、初めて参加するのはちょっと怖い？
   # 参加する方法、参加するときのちょっとしたコツ、懇親会会話術(一般参加)
 
-  # 勉強会を有効活用しよう
-  - chap-event-attend-effective.re
-
-  # 勉強会って何？ 初めての勉強会に行ってみよう！
-  - chap-hekitter-first-meeting.re
-
-  # どの勉強会に行くべきかわからない？そんなときは
-  - chap-ichi_taro3-how-to-find.re
+  # 勉強会を有効活用しよう(仮)
+  - chap-konosumi-join-event-strategy.re
 
   # カジュアルに名刺を作ろう
   - chap-oyakata-meishi.re
 
   # 勉強会の参加法、懇親会会話術
   - chap-gomana2-how-join-talk.re
-
-  - chap-talktips.re
 
   # 登壇しよう。
   # 登壇してみよう！　LTとは？　LTのスライドの基本　懇親会会話術(登壇者)
@@ -34,57 +27,29 @@ CHAPS:
   # 雑にスライドを作る方法
   - chap-oyakata-LTslides.re
 
-  # それっぽいスライドを作るテクニック
-  - chap-mottox2-slide-technique.re
-
   # 自分でも勉強会を主催してみたい！
   # 会場の予約、準備、飲食について
 
   # はじめての小規模勉強会@おやかた
   - chap-oyakata-makemeeting.re
 
-  # スポンサーをつけた中規模勉強会をはじめよう@VTRyo,@はっせー
-  - chap-vtryo-startmeeting-with-sponsor.re
-
   # 社内勉強会を開催しよう
-  - chap-killinsun-internal-meeting.re
+  - chap-killinsun-inhouse-workshop.re
 
-  # 中小SIer企業でも社内勉強会を一年間続けられたよ
+  # 中小SIerで社内勉強会を一年を続けられた勘所（仮）
   - chap-mzryuka-internal-study-group.re
 
-  - chap-himarin269-internal.re
+  # 懇親会費用見積もりにおける「安全マージン」
+  - chap-ariaki-safe-margin.re
 
-  # LT会のタイムテーブルと質問について
-  - chap-oyakata-timetableofLT.re
-
-  # 読書会のススメ
-  - chap-reading-book.re
-
-  # 学生でもオープンな勉強会に行こう
-  - chap-ryoto-student.re
   # 勉強会に参加して何をするのか・勉強会の心得
   - chap-erukiti-what.re
-
-  # 勉強会アンチパターン；ポシャる会
-  - chap-oyakata-MeetingAntipattern.re
-
-  # 行動規範
-  - chap-standard-of-conduct.re
 
   # 勉強会のその先に
   # コミュニティを作ろう、コミュニティ運営、ほかのコミュニティとのつながり
 
-  - chap-oyakata-community.re
-
-  # こんな勉強会があるよ！（主催者編）
+  # こんな勉強会があるよ！
   - chap-llminatoll-various.re
-  # - chap-techpub.re
-
-  # こんな勉強会があるよ！（参加者編）
-  - chap-varmeetup-attend.re
-
-  # 主催して広がった世界
-  - chap-meetingorganize.re
 
   # ノンジャンル勉強会、LT会の紹介、その他。
 
