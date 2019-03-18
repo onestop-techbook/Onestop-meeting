@@ -16,6 +16,11 @@
 #@# Fhe3QTCf_400x400.jpg    オーニシ
 #@# hoshimad_400x400.jpg    ほしまど
 #@# youchan_400x400.jpg     youchan
+#@# VTRyo_400x400.jpg       VTRyo
+#@# hassee_400x400.jpg       はっせー
+#@# killinsun_400x400.jpg   首無しキリン
+
+
 #@#自己紹介ひな形↓
 #@#　←ダミー空白行用の全角スペース（embed内では上方向のスペースが有効にならないため）
 #@#//embed{
@@ -52,21 +57,6 @@
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        見積もりやっていきおじさん\\
-        サークル名：みつもりやっていき
-        \end{minipage}
-    \hspace{1ex}
-//}
-見積もり大好きだけど、見積もり大嫌い。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
         \includegraphics[width=.75\linewidth]{images/contributors/47l90qIj_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
@@ -91,67 +81,6 @@
     \hspace{1ex}
 //}
 勉強会『エンジニアの登壇を応援する会』を立ち上げ活動中。Windows 95発売と共にプログラムに目覚め、フリーソフト公開を通じてIT業界へ就職し今に至る。コミュニティを通じて親方さんからお声がけいただき、楽しそうだったので勢いだけではじめて執筆させていただきました。エンジニアにもそれ以外の方にも楽しく読んで頂けるようなエモい内容でお伝えできればと思っています。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        このすみ @konosumi https://twitter.com/konosumi\\
-        サークル名： このすみ堂 https://www.konosumi.net/
-        \end{minipage}
-    \hspace{1ex}
-//}
-会社ではプレイングマネージャーとして働きながら、趣味でブログや同人活動をしています。サーバーサイドからモバイルアプリまで、プログラミング全般が好きです。今回は、技術書典5のエンジニアアンチパターンがきっかけで、合同誌の執筆に参加させていただきました。少しでも参考になれば幸いです。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/alice_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ありす ゆう @Alice\_You https://twitter.com/Alice\_You\\
-        サークル名：AliceSystem  http://aliceyou.air-nifty.com/
-        \end{minipage}
-    \hspace{1ex}
-//}
-NEOGEOのプログラマを振り出しにまわり廻って製造業の社内SEになっていました。コミケでは、インフラエンジニアの毒舌な妹(@infra\_imouto)と共著で、ネットワークとサーバの本を出しています。好きなものはIPv6とMTAとDNS。今回は、ユーザ企業の社内SEとしてRFPを絡めた話にしてみました。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/Fhe3QTCf_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        オーニシ @onishi\_feuer https://twitter.com/onishi\_feuer\\
-        サークル名：電脳世界  https://denno-sekai.com/
-        \end{minipage}
-    \hspace{1ex}
-//}
-フリーランスでWebマーケティング、Web制作などの活動をしています。多少技術のわかる企画者という感じなのでWebサイト、PCゲーム、YouTube動画、技術書などを自分で勝手に企画して作っていますが受注も始めました。技術書典5とおやかた.amをきっかけに合同誌の執筆に参加させていただきました。自サークルではWordPressとGitと個人事業主の本を出しています。
-
-　
-
-//embed{
-
-    \begin{minipage}{.1\linewidth}
-        \centering
-		\includegraphics[width=.75\linewidth]{images/contributors/__aizack_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        Aizack @ykokubo09   https://twitter.com/ykokubo09\\
-        サークル名：Everyone Outputer
-        \end{minipage}
-    \hspace{1ex}
-//}
-SIerのSEとして客先に常駐しています。予算・工数見積もりなどは経験がないため、SEとして得た2年経験を振り返って若手エンジニア向けの作業見積もりをテーマに寄稿させて頂きました。過去の自分のように見積もりに悩む若手エンジニアに私の経験が届いてほしいと思って書きました。
 
 　
 
@@ -185,71 +114,7 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
 SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
 
 　
-#@# ↑明示的な全角空白があるので、忘れずに。
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/hoshimad_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ほしまど @hoshimado7 https://twitter.com/hoshimado7\\
-        サークル名：Fluorite
-        \end{minipage}
-    \hspace{1ex}
-//}
-仕事はたぶんIT関連。でも仕事じゃコーディングしてない。
-「ルーチンワークを楽にこなしたい」を目的に、趣味で日曜プログラミング。最近はNode.jsの手軽さが気に入って勉強中。
-仕事での見積もりは「私、それよく知らないんですけど？」な開発内容を振られて困ったことしか経験が無い。そんな初歩で困っている人もきっと居るはず、そんな人に届いたらいいな、と合同誌に参戦。私もこの本で勉強させていただきます。
 
-　
-
-//embed{
-   \begin{minipage}{.1\linewidth}
-       \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/kawahara_400x400}
-   \end{minipage}
-   \begin{minipage}{.89\linewidth}
-       さっぴー川原 @sapi\_kawahara   https://twitter.com/sapi\_kawahara\\
-       \end{minipage}
-   \hspace{1ex}
-//}
-放浪のエンジニアです。ファミコンゲームの開発から人生をスタートさせプレイステーション2が出たころより、IT業界に転職しました、SESとして客先常駐していますが特定派遣なので職を失います、原稿書いている時点では転職活動中です。
-今回、この見積もりの話を寄稿したのは、ゲーム業界とスタートアップ企業界隈が似たようなアンチパターンを持っていると感じたためです。
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yunon_400x400.png}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ゆのん @yunon\_phys https://twitter.com/yunon\_phys\\
-        サークル名： Growthfaction , EM.FM https://anchor.fm/em-fm
-        \end{minipage}
-    \hspace{1ex}
-//}
-これまで複数タイトルのモバイルゲームのプロジェクトマネージメント業務に従事してきました。
-Engineering Managerの魅力を伝えるPodcast "EM.FM" のパーソナリティを務めています。
-今回は締め切り4日前におやかたさんに誘われて執筆することになりましたが、見積もりが甘かったと言わざるをえませんw
-
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/youchan_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        よう @youchan https://twitter.com/youchan\\
-        サークル名： みさきとミギー
-        \end{minipage}
-    \hspace{1ex}
-//}
-Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の本を書いていたりします。
-見積りは苦手なのでそんな人間の視点から見積りについて書いてみました。
-
-　
 
 //embed{
     \begin{minipage}{.1\linewidth}
@@ -268,6 +133,101 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 　
 
 //embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/VTRyo_400x400.jpg}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       VTRyo      https://twitter.com/3s\_hv/\\
+       サークル名： Growthfaction, jobchanger https://ex-sier.connpass.com/event/
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+五反田のスタートアップでSREチームに所属しています。本業より個別活動の方が露出が多いです。
+
+ブログ、登壇、イベント主催、Podcast、技術同人誌、転職支援が趣味です。
+
+最近は『副業：小説家』とか言いだしてます。
+
+今回はこちら以外にも合同誌2つ書いています。Growthfactionの『挫折論への招待』もよろしくお願いします。
+
+　
+
+//embed{
+   \begin{minipage}{.1\linewidth}
+       \centering
+       \includegraphics[width=.75\linewidth]{images/contributors/hassee_400x400.jpg}
+   \end{minipage}
+   \begin{minipage}{.89\linewidth}
+       はっせー @Dear\_you\_cry      https://twitter.com/Dear\_you\_cry/\\
+       サークル名： jobchanger https://ex-sier.connpass.com/event/
+       \end{minipage}
+   \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+文系学部卒業後、大手SIerに入社する。
+ソースコードを紙に印刷してレビューするような開発環境で某銀行のシステム開発に従事するが、身に付けられるスキルに不安を感じ転職を決意する。
+
+プログラミングスクール等でWeb系技術を学び、Web業界への転職を果たす。
+
+現在は、Railsを使ってSaaSの開発をしています。
+
+好きなものは、漫画と日本酒です。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+		\includegraphics[width=.75\linewidth]{images/contributors/mottox2_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もっと @mottox2   https://twitter.com/mottox2\\
+        サークル名：つのぶえ出版
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+フリーランスのWebアプリケーションエンジニア。スタートアップや中小企業を中心に開発支援・技術相談・UIデザインを行ってます。月一ぐらいのペースでLTや登壇をしています。
+
+自分のサークルではNetlifyという開発プラットフォームの逆引き本を書いています。口笛とホルンを吹きます。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/killinsun_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        首無しキリン@Kill\_In\_Sun https://twitter.com/Kill\_In\_Sun\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+キリンをこなよく愛すデスメタル&メタルコアベーシスト。
+
+大手運用SIerにてインフラエンジニアを5年経験後、SaaSを提供する多国籍企業でカスタマーサクセスとプロジェクト推進を担当しています。
+
+仕事はエンジニアではなくなりましたが、趣味でコードを書いています。
+
+
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        平林 拓将（ひらりん)@@himarin269 https://twitter.com/himarin269\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+
+　
+
+//embed{
     \begin{minipage}{.1\linewidth}
         \centering
         \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.jpg}
@@ -282,6 +242,8 @@ Rubyist。技術書典でOpalだとかRubyで日本語の自然言語処理の�
 //embed[latex]{
 \clearpage
 //}
+=======
+人材派遣の会社に所属し、ITエンジニアの育成担当をしています。Microsoft系の技術（C#やAzure、Xamarinなど）を好み、趣味ではスマートスピーカースキル開発をよくやっています（ストア公開はまだゼロなので、そろそろ出したい！）。
 
 == 表紙イラスト担当
 
