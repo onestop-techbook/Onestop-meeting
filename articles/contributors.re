@@ -225,20 +225,6 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
     \hspace{1ex}
 //}
 
-　
-
-//embed{
-    \begin{minipage}{.1\linewidth}
-        \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/gomana2_400x400.jpg}
-    \end{minipage}
-    \begin{minipage}{.89\linewidth}
-        ごまなつ @akrolayer https://twitter.com/akrolayer\\
-        \end{minipage}
-    \hspace{1ex}
-//}
-メーカ子会社新卒1年目。勉強会の存在を知り、モチベーションを得るため、社外の情報を得るため勉強会に参加している。
-
 //embed[latex]{
 \clearpage
 //}
