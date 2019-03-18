@@ -19,6 +19,7 @@
 #@# VTRyo_400x400.jpg       VTRyo
 #@# hassee_400x400.jpg       はっせー
 #@# killinsun_400x400.jpg   首無しキリン
+#@# MzRyuKa_400x400.jpg     みずりゅ
 
 
 #@#自己紹介ひな形↓
@@ -240,6 +241,21 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
     \hspace{1ex}
 //}
 メーカ子会社勤務1年目。勉強会に参加し、モチベーションと社外の情報を得ています。
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/MzRyuKa_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        みずりゅ @MzRyuKa https://twitter.com/mzryuka\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
+最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語です。
 
 == 表紙イラスト担当
 
