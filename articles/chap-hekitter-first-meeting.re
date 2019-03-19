@@ -66,7 +66,7 @@ hekitter
  * TECH PLAY (https://techplay.jp/)
  * doorkeepers ()
  
-今回はconpassの利用を例に、参加方法を見てみましょう。
+今回はconnpassの利用を例に、参加方法を見てみましょう。
  
 残念なことに、2019年2月現在connpassの検索機能が停止しています。代わりに以下の方法で気になる勉強会を見つけるのがおすすめです。
 
