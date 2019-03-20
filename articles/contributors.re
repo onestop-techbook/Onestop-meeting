@@ -21,6 +21,7 @@
 #@# killinsun_400x400.jpg   首無しキリン
 #@# MzRyuKa_400x400.jpg     みずりゅ
 #@# ExA5ZEDF_400x400.jpg    Ryoto
+#@# ichi_taro3_400x400.jpg  ichi_taro3
 
 
 #@#自己紹介ひな形↓
@@ -274,6 +275,20 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 出版時にはM2になる大学院生。シェル芸界隈に生息し、すごいけど実用性のないシェル芸をこよなく愛する。
 普段はプログラミング言語を作る研究室で研究をし、趣味でインフラの勉強をしている。
 今回が初めての執筆でした。
+
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ichi_taro3_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        いちたろう @ichi\_taro3 https://twitter.com/ichi\_taro3
+        \end{minipage}
+    \hspace{1ex}
+//}
+京都に生息するWebアプリケーションエンジニア。所属する某EC企業では、主にPythonを書いています。
+最近はCI/CDとか、Kubernetesとかに興味を惹かれています。
 
 
 == 表紙イラスト担当
