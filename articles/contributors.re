@@ -20,6 +20,7 @@
 #@# hassee_400x400.jpg       はっせー
 #@# killinsun_400x400.jpg   首無しキリン
 #@# MzRyuKa_400x400.jpg     みずりゅ
+#@# ExA5ZEDF_400x400.jpg    Ryoto
 
 
 #@#自己紹介ひな形↓
@@ -258,6 +259,22 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //}
 のんびりごろごろ、ネコ、うさまる、技術の話は大好きです。SIerですがアジャイルな開発も経験していたりします。
 最近は思うところもあり、色々と活動中。最近のお気に入り言語はGo言語です。
+
+　
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/ExA5ZEDF_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        Ryoto @systemctl\_ryoto https://twitter.com/systemctl\_ryoto\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+出版時にはM2になる大学院生。シェル芸界隈に生息し、すごいけど実用性のないシェル芸をこよなく愛する。
+普段はプログラミング言語を作る研究室で研究をし、趣味でインフラの勉強をしている。
+今回が初めての執筆でした。
+
 
 == 表紙イラスト担当
 
