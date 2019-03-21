@@ -64,7 +64,7 @@ hekitter
 
  * connpass (https://connpass.com/)
  * TECH PLAY (https://techplay.jp/)
- * doorkeepers ()
+ * doorkeeper (https://www.doorkeeper.jp/)
  
 今回はconnpassの利用を例に、参加方法を見てみましょう。
  
