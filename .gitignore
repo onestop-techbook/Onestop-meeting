@@ -3,6 +3,7 @@ Gemfile.lock
 *.pdf
 
 articles/*.html
+articles/*.pdf
 
 #ignore custom config file used on a Re:View environment including W32TeX and Ruby running on Windows 7
 articles/config_W32TeX.yml

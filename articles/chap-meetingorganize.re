@@ -1,10 +1,4 @@
-= 主催して世界が広がった！
-
-== 主催して初めて見える、勉強会の新たな世界 @あわな
-
-
-
-
+= 主催して初めて見える、勉強会の新たな世界 @あわな
 
 ==== 自己紹介
 
@@ -13,7 +7,7 @@
 とあるweb企業でインフラエンジニアをしております。
 
 コミュニティ「Everyone Outputer」の主催です。
-
+https://everyone-outputer.connpass.com/
 
 
 ==== 開催概要・内容
@@ -21,6 +15,8 @@
 Everyone Outputer # 1
 
 ｢ぼくのわたしのセイチョウ・ジャーニー｣
+
+https://everyone-outputer.connpass.com/event/104902/
 
 内容：セイチョウ・ジャーニーに関するLT大会。初心者歓迎。
 
