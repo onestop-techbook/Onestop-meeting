@@ -8,12 +8,12 @@ CHAPS:
   # 一般参加編：でも、初めて参加するのはちょっと怖い？
   # 参加する方法、参加するときのちょっとしたコツ、懇親会会話術(一般参加)
 
-  # 勉強会を有効活用しよう
-  - chap-event-attend-effective.re
-
   # 勉強会って何？ 初めての勉強会に行ってみよう！
   - chap-hekitter-first-meeting.re
 
+  # 勉強会を有効活用しよう
+  - chap-event-attend-effective.re
+  
   # どの勉強会に行くべきかわからない？そんなときは
   - chap-ichi_taro3-how-to-find.re
 
@@ -25,17 +25,23 @@ CHAPS:
 
   - chap-talktips.re
 
+  # 学生でもオープンな勉強会に行こう
+  - chap-ryoto-student.re
+  # 勉強会に参加して何をするのか・勉強会の心得
+  - chap-erukiti-what.re
+
+
   # 登壇しよう。
   # 登壇してみよう！　LTとは？　LTのスライドの基本　懇親会会話術(登壇者)
 
   # 登壇内容の生やし方
   - chap-ariaki-content-selection.re
 
-  # 雑にスライドを作る方法
-  - chap-oyakata-LTslides.re
-
   # それっぽいスライドを作るテクニック
   - chap-mottox2-slide-technique.re
+
+  # 雑にスライドを作る方法
+  - chap-oyakata-LTslides.re
 
   # 自分でも勉強会を主催してみたい！
   # 会場の予約、準備、飲食について
@@ -59,11 +65,6 @@ CHAPS:
 
   # 読書会のススメ
   - chap-reading-book.re
-
-  # 学生でもオープンな勉強会に行こう
-  - chap-ryoto-student.re
-  # 勉強会に参加して何をするのか・勉強会の心得
-  - chap-erukiti-what.re
 
   # 勉強会アンチパターン；ポシャる会
   - chap-oyakata-MeetingAntipattern.re
