@@ -224,7 +224,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/himarin269_400x400.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/himarin269_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
         ひらりん @himarin269 https://twitter.com/himarin269\\
