@@ -23,6 +23,7 @@
 #@# ExA5ZEDF_400x400.jpg    Ryoto
 #@# ichi_taro3_400x400.jpg  ichi_taro3
 #@# sukimaro_400x400.jpg    kobarasukimaro
+#@# himarin269_400x400.jpg  ひらりん
 
 
 #@#自己紹介ひな形↓
@@ -223,10 +224,10 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/himarin269_400x400.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        平林 拓将（ひらりん)@@himarin269 https://twitter.com/himarin269\\
+        ひらりん @himarin269 https://twitter.com/himarin269\\
         \end{minipage}
     \hspace{1ex}
 //}
