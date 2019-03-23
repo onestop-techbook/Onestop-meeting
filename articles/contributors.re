@@ -236,6 +236,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
