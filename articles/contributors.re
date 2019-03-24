@@ -23,6 +23,8 @@
 #@# ExA5ZEDF_400x400.jpg    Ryoto
 #@# ichi_taro3_400x400.jpg  ichi_taro3
 #@# sukimaro_400x400.jpg    kobarasukimaro
+#@# himarin269_400x400.jpg  ひらりん
+#@# hekitter02_400x400.jpg  hekitter
 
 
 #@#自己紹介ひな形↓
@@ -223,10 +225,10 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
-        \includegraphics[width=.75\linewidth]{images/contributors/yatteiki.jpg}
+        \includegraphics[width=.75\linewidth]{images/contributors/himarin269_400x400.png}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        平林 拓将（ひらりん)@@himarin269 https://twitter.com/himarin269\\
+        ひらりん @himarin269 https://twitter.com/himarin269\\
         \end{minipage}
     \hspace{1ex}
 //}
@@ -235,6 +237,7 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 
 
 　
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -306,6 +309,35 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 バックエンド開発メインですが、フロントからインフラまで幅広く触ってます。
 最近はCI/CDの整備、コンテナ技術を特に楽しんでます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名：このすみ堂 https://www.konosumi.net/
+        \end{minipage}
+    \hspace{1ex}
+//}
+Web・モバイル系のお仕事やってます。自分の本の〆切りが辛すぎて、最近は余裕がありません。
+余裕を持って執筆する技術が知りたいです。
+技術書典6の「Kuinプログラミング入門」と、インプレス R&Dから刊行予定の「レベルアップPHP」をよろしくお願いします。
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hekitter02_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        hekitter @hekitter https://twitter.com/hekitter
+        \end{minipage}
+    \hspace{1ex}
+//}
+もがくSIer。原稿期に仕事の盛り上がりかかぶり、多大なご迷惑をおかけしました。
+セルフマネジメント大事…
 
 == 表紙イラスト担当
 
