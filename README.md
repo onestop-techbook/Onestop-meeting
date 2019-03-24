@@ -83,6 +83,8 @@ $ docker run --rm -v `pwd`:/work vvakame/review /bin/sh -c "cd /work/articles ; 
 cd articles ; review pdfmaker config.yml
 ```
 
+> Visual Studio Code で `Onestop-meeting` フォルダーを開くと、ビルドタスク `Build PDF with Re:VIEW` を使ってこのコマンドを実行できます。
+
 ### 権利
 
 ベースには、[TechBooster/ReVIEW\-Template: TechBoosterで利用しているRe:VIEWのテンプレート（B5/A5/電子書籍）](https://github.com/TechBooster/ReVIEW-Template) を使っています。
