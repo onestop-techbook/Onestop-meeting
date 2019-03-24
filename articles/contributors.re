@@ -24,6 +24,7 @@
 #@# ichi_taro3_400x400.jpg  ichi_taro3
 #@# sukimaro_400x400.jpg    kobarasukimaro
 #@# himarin269_400x400.jpg  ひらりん
+#@# hekitter02_400x400.jpg  hekitter
 
 
 #@#自己紹介ひな形↓
@@ -325,6 +326,18 @@ Web・モバイル系のお仕事やってます。自分の本の〆切りが�
 余裕を持って執筆する技術が知りたいです。
 技術書典6の「Kuinプログラミング入門」と、インプレス R&Dから刊行予定の「レベルアップPHP」をよろしくお願いします。
 
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/hekitter02_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        hekitter @hekitter https://twitter.com/hekitter
+        \end{minipage}
+    \hspace{1ex}
+//}
+もがくSIer。原稿期に仕事の盛り上がりかかぶり、多大なご迷惑をおかけしました。
+セルフマネジメント大事…
 
 == 表紙イラスト担当
 
