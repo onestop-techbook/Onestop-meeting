@@ -3,6 +3,7 @@ Gemfile.lock
 *.pdf
 
 articles/*.html
+articles/*.pdf
 
 #ignore custom config file used on a Re:View environment including W32TeX and Ruby running on Windows 7
 articles/config_W32TeX.yml
@@ -10,3 +11,7 @@ articles/config_W32TeX.yml
 #ignore Visual Studio Code Workspace
 *.code-workspace
 articles/layouts/layout.tex - コピー.erb
+
+# OS dependent files
+.DS_Store
+Thumbs.db
