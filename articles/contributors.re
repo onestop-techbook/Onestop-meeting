@@ -308,6 +308,23 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 バックエンド開発メインですが、フロントからインフラまで幅広く触ってます。
 最近はCI/CDの整備、コンテナ技術を特に楽しんでます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/konosumi_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        このすみ @konosumi https://twitter.com/konosumi\\
+        サークル名：このすみ堂 https://www.konosumi.net/
+        \end{minipage}
+    \hspace{1ex}
+//}
+Web・モバイル系のお仕事やってます。自分の本の〆切りが辛すぎて、最近は余裕がありません。
+余裕を持って執筆する技術が知りたいです。
+技術書典6の「Kuinプログラミング入門」と、インプレス R&Dから刊行予定の「レベルアップPHP」をよろしくお願いします。
+
 
 == 表紙イラスト担当
 
