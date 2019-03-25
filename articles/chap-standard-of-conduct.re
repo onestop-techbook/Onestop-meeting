@@ -59,4 +59,4 @@ https://portal.engineers-lt.info/guideline
 
 懇親会で常連だけが固まっている、しきたりを説き始める。当たり前ですが、なしですよね。
 
-==
+
