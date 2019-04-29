@@ -115,11 +115,12 @@ growthfactionやengineers_ltでは、広報担当としてコミュニティの�
         \includegraphics[width=.75\linewidth]{images/contributors/FORTE.jpg}
     \end{minipage}
     \begin{minipage}{.89\linewidth}
-        FORTE(フォルテ) https://twitter.com/FORTEgp05
+        FORTE(フォルテ) https://twitter.com/FORTEgp05\\
+        サークル名： aozora Project
         \end{minipage}
     \hspace{1ex}
 //}
-SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回はSIerとWeb系で得た経験から、オススメの見積もり手法について書きました。もっとうまい見積もり手法を探している人のお役に立てれば幸いです。
+SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。
 
 　
 
