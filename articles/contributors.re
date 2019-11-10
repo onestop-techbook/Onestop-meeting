@@ -25,6 +25,7 @@
 #@# sukimaro_400x400.jpg    kobarasukimaro
 #@# himarin269_400x400.jpg  ひらりん
 #@# hekitter02_400x400.jpg  hekitter
+#@# nagara_400x400.jpg  nagara
 
 
 #@#自己紹介ひな形↓
@@ -341,6 +342,20 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //}
 もがくSIer。原稿期に仕事の盛り上がりかかぶり、多大なご迷惑をおかけしました。
 セルフマネジメント大事…
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nagara_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        ながら @nagara\_studio https://twitter.com/nagara\_studio
+        サークル名：ながら工房
+        \end{minipage}
+    \hspace{1ex}
+//}
+元スマホゲームのUnityクライアントエンジニア。新卒からかれこれ7年くらい社内勉強会を運営してました。個人サークルではゲームつくったり同人誌つくったりしてます。
 
 == 表紙イラスト担当
 
