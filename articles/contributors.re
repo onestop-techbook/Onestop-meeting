@@ -26,6 +26,7 @@
 #@# himarin269_400x400.jpg  ひらりん
 #@# hekitter02_400x400.jpg  hekitter
 #@# nagara_400x400.jpg  nagara
+#@# nilfigo_400x400.jpg  nilfigo
 
 
 #@#自己紹介ひな形↓
@@ -357,6 +358,23 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
 //}
 元スマホゲームのUnityクライアントエンジニア。新卒からかれこれ7年くらい社内勉強会を運営してました。個人サークルではゲームつくったり同人誌つくったりしてます。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/nilfigo_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        nilfigo @nilfigo https://twitter.com/nilfigo\\
+        サークル名：脆弱性診断研究会
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+セキュリティエンジニアです。同人誌活動は技術書典5から。
+趣味でドラム叩いてます。所属のバンドはJ-POP系でギターやキーボードを絶賛募集中！
+
+
 == 表紙イラスト担当
 
 //embed{
@@ -371,7 +389,6 @@ SIerからWeb系に転職し、いまはスマホアプリの開発をしてい�
     \hspace{1ex}
 //}
 絵を描くWeb デザイナー。2014年、個人でWebに技術解説マンガを投稿し始め今に至る。前回に引き続き、表紙イラスト・付録コラムに参加させていただきました。今回見積もり本ということで、おやかたさんアイデアのガントチャート風の背景がビシッと決まり気に入っています。
-
 
 
 
