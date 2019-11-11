@@ -70,7 +70,7 @@
 
  * 転職LT #jobchangerとは @<href>{https://scrapbox.io/team-jobchanger/}
  * 転職LT #jobchanger関連ブログ @<href>{https://goo.gl/mEqgGS}
- * オンラインコミュニティ Jobchanger Onlineへの参加方法 @<href>{https://goo.gl/VmTFDY}
+ * オンラインコミュニティー Jobchanger Onlineへの参加方法 @<href>{https://goo.gl/VmTFDY}
  * 転職LT #jobchangerご協賛資料 @<href>{https://goo.gl/c3RExi}
 　
 

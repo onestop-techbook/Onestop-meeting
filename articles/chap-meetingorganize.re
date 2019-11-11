@@ -6,7 +6,7 @@
 
 とあるweb企業でインフラエンジニアをしております。
 
-コミュニティ「Everyone Outputer」の主催です。
+コミュニティー「Everyone Outputer」の主催です。
 https://everyone-outputer.connpass.com/
 
 
@@ -28,9 +28,9 @@ https://everyone-outputer.connpass.com/event/104902/
 
 技術書典5で頒布されていた、GrowthFaction様の『セイチョウ・ジャーニー』を読んだことがきっかけです。
 
-この本には、『Everyone Outputer』というコミュニティが登場します。
+この本には、『Everyone Outputer』というコミュニティーが登場します。
 
-技術書典5開催当時、このコミュニティは架空のものでした。
+技術書典5開催当時、このコミュニティーは架空のものでした。
 
 この架空を現実のものにしたのが、本勉強会です。
 
